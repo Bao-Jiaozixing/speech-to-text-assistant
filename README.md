@@ -4,8 +4,6 @@ A Python-based speech-to-text application with GUI, designed to help hearing-imp
 
 A Python-based speech-to-text application with GUI, designed to help hearing-impaired people communicate more easily.
 
-![Screenshot](https://example.com/screenshot.png) <!-- 可选 -->
-
 ## Features
 - Real-time speech recognition
 - Simple and clean interface
